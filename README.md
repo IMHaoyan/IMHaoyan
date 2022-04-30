@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="left">I'm Haoyan, a student🐥, interested in computer graphics💻🌷🌼.</div>  
+### <div align="left">I'm Haoyan,a student🐥,interested in computer graphics💻🌷.</div>  
 ### <div align="left">I love watching movies🎬🍿 and playing video games🎮👾. </div>  
 
 <br />
