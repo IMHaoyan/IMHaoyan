@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
 ### <div align="center">I'm Haoyan, a student🐥, interested in computer graphics.💻🌷🌼</div>  
   
 
-- 🔭 I’m currently studying in [JLU](https://www.jlu.edu.cn/).  
+- 🔭 I’m currently studying in [JLU](https://ccst.jlu.edu.cn/).  
   
 
 <br/>  
@@ -26,9 +26,7 @@
 
 <br/>  
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=IMHaoyan&&style=flat-square" align="right" />
-</div>  
+ 
 
 <br />
 
