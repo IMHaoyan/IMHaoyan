@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 30%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 100%" />
 </div>  
-  
-
 ### <div align="left">I'm Haoyan,a student🐥,interested in computer graphics💻🌷.</div>  
 ### <div align="left">I love watching movies🎬🍿 and playing video games🎮👾. </div> 
 ### <div align="left">I’m currently studying in [JLU](https://ccst.jlu.edu.cn/)🔭.</div> 
