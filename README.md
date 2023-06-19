@@ -3,5 +3,5 @@
 <br />
 
 ### <div align="left">I'm Haoyan,a student🐥,majoring in computer graphics💻🌷.</div>  
-### <div align="left">loving watching movies🎬🍿 and playing video games🎮👾. </div> 
+### <div align="left">loving movies🎬🍿 and video games🎮👾. </div> 
 ### <div align="left">currently studying in [JLU](https://ccst.jlu.edu.cn/)🔭.</div> 
